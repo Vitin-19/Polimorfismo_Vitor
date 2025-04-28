@@ -12,11 +12,11 @@ git clone https://github.com/Vitin-19/Polimorfismo_Vitor.git
 ```
 Enter in the diretory:
 ```shel
-cd PolimorfismoJava_Vitor
+cd Polimorfismo_Vitor
 ```
 Execute it: 
 ```shel
-java src/Empresa.java.java
+java src/Empresa.java
 ```
 
 <h3>NOTE</h3>
