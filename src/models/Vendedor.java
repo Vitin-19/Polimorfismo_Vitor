@@ -1,3 +1,5 @@
+package src.models;
+
 public class Vendedor extends Funcionario {
     private double salarioBase;
     private double comissao;

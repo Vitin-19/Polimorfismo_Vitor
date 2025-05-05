@@ -1,3 +1,10 @@
+package src;
+
+import src.models.Funcionario;
+import src.models.Gerente;
+import src.models.Vendedor;
+import src.models.FreeLancer;
+
 public class Empresa{
     public static void main(String[] args) {
         Funcionario vendedor = new Vendedor(2000,500);

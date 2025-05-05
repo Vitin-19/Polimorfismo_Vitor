@@ -1,3 +1,5 @@
+package src.models;
+
 public abstract class Funcionario {
     private String nome;
 

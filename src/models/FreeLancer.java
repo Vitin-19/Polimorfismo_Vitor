@@ -1,3 +1,5 @@
+package src.models;
+
 public class FreeLancer extends Funcionario {
     private int diasTrabalhados;
     private double valorDia;
