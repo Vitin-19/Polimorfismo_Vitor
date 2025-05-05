@@ -14,6 +14,10 @@ Enter in the diretory:
 ```shel
 cd Polimorfismo_Vitor
 ```
+Compile the files:
+```shel
+javac -d bin/ src/Empresa.java
+```
 Execute it: 
 ```shel
 java src/Empresa.java
@@ -22,5 +26,4 @@ java src/Empresa.java
 <h3>NOTE</h3>
 <hr>
 This project was created for studies, school activities and portifolio reasons. Its use, modification and redistribution are not allowed without authorization.<br>
-All of the project is on portuguese.<br>
-Because it's an school activity, all of the .class file has been commited.<br>
+All of the project is on portuguese.
